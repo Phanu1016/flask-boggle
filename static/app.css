@@ -1,0 +1,18 @@
+
+thead {
+    background-color: #333;
+    color: #fff;
+}
+
+th {
+    padding: 0.5em;
+}
+
+td {
+    border: 1px solid #333;
+    padding-left: 4em;
+    padding-right: 4em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+
+}
